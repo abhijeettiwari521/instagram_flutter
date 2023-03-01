@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class mobileScreenLayout extends StatelessWidget {
+class MobileScreenLayout extends StatelessWidget {
   const MobileScreenLayout({super.key});
 
   @override

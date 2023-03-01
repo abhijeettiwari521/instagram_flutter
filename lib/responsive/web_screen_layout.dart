@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class webScreenLayout extends StatelessWidget {
+class WebScreenLayout extends StatelessWidget {
   const WebScreenLayout({super.key});
 
   @override
